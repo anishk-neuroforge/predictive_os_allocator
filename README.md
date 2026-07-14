@@ -8,7 +8,7 @@ Developed as part of a university Operating Systems project, this application co
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot here.
+
 
 ![Predictive OS Resource Allocator Dashboard](OSDEMO.png)
 
